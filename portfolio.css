@@ -1,0 +1,146 @@
+body {
+    margin: 0px;
+}
+h1.portfolio {
+    border-bottom: 10px solid black;
+    background-color: #861943;
+    padding:30px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Arial",sans-serif;
+    font-size:50px;
+    margin:0px;
+    text-transform: uppercase;
+
+}
+p {
+    padding-left:20%;
+    position: absolute;
+    bottom: 75%;
+    font-family: "Crimson text", Serif;
+}
+.minhafoto {
+    position: absolute;
+    top:0px;
+    right:0px;
+    border-bottom: 10px solid black;
+    border-left:10px solid black;
+}
+.bmwconfig{
+    margin-top: -182px;
+    margin-left: 373px;
+}
+.bmw {
+    padding-top: 30px;
+    padding-right:30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    border:10px solid black;
+
+}
+.divlinkbmw {
+    width: 300px;
+    margin-top: -91px;
+    margin-left: 45px;
+}
+.uolconfig {
+    margin-top: -250px;
+    margin-left: 857px;
+}
+.uol {
+    padding-top: 30px;
+    padding-right:30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    border:10px solid black;
+}
+.divlinkuol {
+    width: 300px;
+    margin-top: -91px;
+    margin-left: 59px;
+}
+.ibmconfig {
+    margin-top: 120px;
+    margin-left: 373px;
+}
+.ibm {
+    padding-top: 30px;
+    padding-right:30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    border:10px solid black;
+}
+.divlinkibm {
+    width: 300px;
+    margin-top: -94px;
+    margin-left: 40px;
+}
+.g1config {
+    margin-top: -247px;
+    margin-left: 857px
+}
+.g1 {
+    padding-top: 30px;
+    padding-right:30px;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    border:10px solid black;
+}
+.divlinkg1 {
+    width: 300px;
+    margin-top: -92px;
+    margin-left: 62px;
+}
+div.icones {
+    border: 1px solid #000000;
+    background-color: #3B1D3C;
+    width: 270px;
+    height: 300px;
+    position: relative;
+    margin-left: auto;
+    top:182px;
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+}
+.icones-sociais a {
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+nav h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+nav a {
+    font-size: 25px;
+    font-family: "Arial", sans-serif;
+    color:white;
+
+}
+nav ul li {
+    margin-left:55px;
+    list-style: none;
+}
+div > ul > li{
+    display: inline-block;
+}
+.github{
+    background-image: url("github.png");
+}
+.twitter{
+    background-image: url("twitter.png");
+}
+.linkedin{
+    background-image: url("linkedin.png");
+}
+footer {
+    background-color:black;
+    color: white;
+    margin-top: 80px;
+}
+
