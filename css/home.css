@@ -1,0 +1,247 @@
+body {
+    margin: 0px;
+}
+.fotoperfil {
+    background-color: #861943;
+    margin: 0px;
+    border-top: 15px #861943 solid;
+}
+.eu {
+    border-radius: 150px;
+}
+img {
+    display: block;
+    margin: auto;
+    box-shadow: 0 0 1em #000;
+}
+h1 {
+    font-size: 70px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #861943;
+    margin: auto;
+    padding-top: 15px;
+    text-shadow: 5px 5px #000;
+}
+h3 {
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #861943;
+    margin: auto;
+    border-bottom: 10px solid black;
+    padding-bottom: 10px;
+}
+.ola {
+    font-family: "Crimson text", Serif;
+    font-size: 105px;
+    opacity: 0.3;
+}
+.myname {
+    font-family: "Crimson text", Serif;
+    font-size: 35px;
+    opacity: 0.3;
+    margin-left: 190px;
+    margin-top: -160px;
+}
+.joao {
+    font-family: "Crimson text", Serif;
+    font-size: 75px;
+    margin-left: 376px;
+    margin-top: -113px;
+}
+.construo {
+    font-family: "Crimson text", Serif;
+    font-size: 35px;
+    opacity: 0.3;
+    margin-left: 918px;
+    margin-top: -24px;
+}
+.sites {
+    font-family:"Crimson text" "cursive",Serif;
+    font-size: 105px;
+    color: #861943;
+    margin-left: 1112px;
+    margin-top: -140px;
+}
+.link {
+    font-size: 16px;
+    background-color: #861943;
+    border: 5px solid #391C3A;
+    width: 225px;
+    padding: 23px;
+    margin: 2em auto;
+    box-shadow:0 0 1em #000;
+}
+.link:hover{
+    background-color:#391C3A;
+    background-image: linear-gradient(135deg, transparent, transparent 14px, rgba(0, 0, 0,.1)14px, rgba(0, 0, 0, .1), transparent 15px, transparent);
+    background-size:20px 20px;
+    background-attachment: fixed;
+}
+.link a {
+    color: #FFFFFF;
+}
+.trabalhoroxo {
+    background-color: #3B1D3C;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    height: 670px;
+    background-image: linear-gradient(135deg, transparent, transparent 14px, rgba(0, 0, 0,.1)14px, rgba(0, 0, 0, .1), transparent 15px, transparent);
+    background-size:20px 20px;
+    background-attachment: fixed;
+}
+.trabalhoroxo h2 {
+    color: #FFFFFF;
+    font-family: "Crimson text" sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-left: 88px;
+    text-shadow: 2px 2px #000;
+}
+.imgbmw {
+    width: 560px;
+    margin-left: 90px;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-top: 10px solid black;
+}
+.imgibm {
+    width: 562px;
+    margin-left: 660px;
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+    margin-top: -285px;
+}
+.imguol {
+    width: 562px;
+    margin-top: -285px;
+    margin-left: 1222px;
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+    border-right: 10px solid black;
+}
+.vejamais {
+    text-align: center;
+    font-size: 15px;
+    margin-right: 330px;
+    background-color: #861943;
+    width: 420px;
+    padding: 2px;
+    margin: auto;
+    margin-top: -137px;
+    border:5px solid #391C3A;
+    box-shadow:0 0 1em #000;
+}
+.vejamais:hover{
+    background-color:#391C3A;
+    background-image: linear-gradient(135deg, transparent, transparent 14px, rgba(0, 0, 0,.1)14px, rgba(0, 0, 0, .1), transparent 15px, transparent);
+    background-size:20px 20px;
+    background-attachment: fixed;
+}
+.vejamais2 {
+    color: #FFFFFF;
+    font-size: 21px;
+}
+.responsivo {
+    background-color: #FFF;
+    position: absolute;
+    color: black;
+    top: 1704px;
+    right: 450px;
+    height: 6em;
+    padding: 1em;
+    border-radius: 10px;
+}
+.saudacao-inicio {
+    font-size: 3em;
+    color: #889;
+}
+.saudacao-ultima-linha {
+    text-align: right;
+    display: block;
+}
+.saudacao strong {
+    font-size: 2em;
+    color: #000;
+}
+.saudacao em {
+    color: #851944;
+    font-size: 4em;
+}
+.botao-index {
+    font-size: 1.25em;
+    background-color: #851944;
+    color: #FFF;
+    padding: .5em;
+    border:5px solid #391C3A;
+    width: 40ch;
+    margin: 2em auto;
+    display: block;
+    text-align: center;
+    box-shadow:0 0 1em #000;
+}
+.botao-index:hover {
+    background-color: #391C3A;
+    background-image: linear-gradient(135deg, transparent, transparent 14px, rgba(0, 0, 0,.1)14px, rgba(0, 0, 0, .1), transparent 15px, transparent);
+    background-size:20px 20px;
+    background-attachment: fixed;
+}
+.secao-inicio {
+    padding: 2em;
+}
+.secao-inicio h2 {
+    font-size: 3em;
+    text-transform: uppercase;
+    margin-bottom: .5em;
+    text-shadow: 2px 2px #000;
+}
+.trabalhos {
+    background-color: #3C1D3D;
+    border-top: .5em solid #000;
+    border-bottom: .5em solid #000;
+}
+.trabalhos h2 {
+    color: #FFF;
+}
+.trabalhos ul {
+    overflow: hidden;
+    border: .5em solid black;
+}
+.trabalhos li {
+    float: left;
+    width: 33.333%;
+}
+.trabalhos img {
+    width: 100%;
+    display: block;
+}
+.blog {
+    background-color: #999;
+    color: #FFF;
+    border-bottom: .5em solid #851944;
+}
+.blog small {
+    position: relative;
+    top: -2em;
+}
+.blog li a {
+    color: #FCF;
+    padding: .5em;
+    display: block;
+}
+footer {
+    background-color: #000;
+    color: #FFF;
+    padding: 2em;
+}
+footer h2 {
+    font-size: 3em;
+}
+footer a {
+    color: #F99;
+}
+

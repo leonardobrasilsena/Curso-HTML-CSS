@@ -1,0 +1,47 @@
+div.icones {
+    border: 1px solid #000000;
+    background-color: #3B1D3C;
+    width: 270px;
+    height: 300px;
+    position: relative;
+    margin-left: auto;
+    top:182px;
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+}
+.icones-sociais a {
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+nav h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+nav a {
+    font-size: 25px;
+    font-family: "Arial", sans-serif;
+    color:white;
+
+}
+nav ul li {
+    margin-left:55px;
+    list-style: none;
+}
+div > ul > li{
+    display: inline-block;
+}
+.github{
+    background-image: url("../imagens/github.png");
+}
+.twitter{
+    background-image: url("../imagens/twitter.png");
+}
+.linkedin{
+    background-image: url("../imagens/linkedin.png");
+}

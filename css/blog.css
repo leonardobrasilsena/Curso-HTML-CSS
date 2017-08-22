@@ -1,0 +1,176 @@
+body {
+    margin: 0px;
+}
+h1.blog {
+    border-bottom: 10px solid black;
+    background-color: #861943;
+    padding: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    font-size: 50px;
+    margin: 0px;
+    text-transform: uppercase;
+}
+.minhafoto {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+}
+
+.responsivo {
+    text-align: center;
+    margin-top: -265px;
+    margin-right: 359px;
+    font-family: "Crimson text", sans-serif;
+}
+.textoCentralizado {
+    text-align: center;
+    font-size: 13px;
+}
+
+#data {
+    margin-right: 658px;
+    margin-top: -20px;
+    font-family: "Crimson text", sans-serif;
+    font-size: 12px;
+}
+#coment1 {
+    margin-right: 288px;
+    margin-top: 32px;
+}
+
+#coment2 {
+    margin-right: 447px;
+    margin-top: -11px;
+}
+
+.leiamais1 {
+    text-align: center;
+    font-size: 15px;
+    margin-right: 330px;
+    background-color: #E6E7E9;
+    width: 420px;
+    padding: 4px;
+    margin-left: 600px;
+    margin-top: 40px;
+}
+.link1 {
+    color: #861943;
+}
+.tag1 {
+    font-size: 12px;
+    margin-left: 574px;
+}
+.hr1 {
+    width: 473px;
+    margin-left: 575px;
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+.acessíveis {
+    text-align: center;
+    font-family: "Crimson text", sans-serif;
+    margin-right: 363px;
+}
+.data2{
+    text-align: center;
+    font-family: "Crimson text", sans-serif;
+    font-size: 12px;
+    margin-right: 646px;
+    margin-top: -18px;
+}
+.coment3 {
+    text-align: center;
+    font-size: 13px;
+    margin-right: 268px;
+    margin-top: 32px;
+}
+.coment4 {
+    text-align: center;
+    font-size: 13px;
+    margin-right: 393px;
+    margin-top: -11px;
+}
+.leiamais2 {
+    text-align: center;
+    font-size: 15px;
+    margin-right: 330px;
+    background-color: #E6E7E9;
+    width: 420px;
+    padding: 4px;
+    margin-left: 600px;
+    margin-top: 40px;
+}
+.link2 {
+    color: #861943;
+}
+.tag2 {
+    font-size: 13px;
+    margin-left: 580px;
+}
+.hr2 {
+    width: 473px;
+    margin-left: 583px;
+    margin-top: 35px;
+}
+.javascript {
+    text-align: center;
+    font-family: "Crimson text", sans-serif;
+    margin-right:  435px;
+}
+.data3 {
+    text-align: center;
+    font-family: "Crimson text", sans-serif;
+    font-size: 12px;
+    margin-right: 629px;
+    margin-top: -18px;
+}
+.coment5 {
+    text-align: center;
+    font-size: 13px;
+    margin-right: 280px;
+    margin-top: 33px;
+}
+.coment6{
+    text-align: center;
+    font-size: 13px;
+    margin-right: 285px;
+    margin-top: -10px;
+}
+.coment7 {
+    text-align: center;
+    font-size: 13px;
+    margin-right: 631px;
+    margin-top: -10px;
+}
+.leiamais3 {
+    text-align: center;
+    font-size: 15px;
+    margin-right: 330px;
+    background-color: #E6E7E9;
+    width: 420px;
+    padding: 4px;
+    margin-left: 600px;
+    margin-top: 40px;
+}
+.link3 {
+    color: #861943;
+}
+.tag3 {
+    font-size: 13px;
+    margin-left: 587px;
+}
+.hr3 {
+    width: 473px;
+    margin-left: 583px;
+    margin-top: 35px;
+}
+footer {
+    padding: 14px;
+    background-color: rgba(0, 0, 0, .3);
+    color: white;
+    margin-top: 90px;
+}
