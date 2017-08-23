@@ -1,0 +1,71 @@
+body {
+    margin:0px;
+}
+h1.contato {
+    border-bottom: 10px solid black;
+    background-color: #861943;
+    padding: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    font-size: 50px;
+    margin: 0px;
+    text-transform: uppercase;
+}
+.minhafoto {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+}
+.formulario{
+    margin-top: -110px;
+    margin-left: 20px;
+}
+.formulariofiel{
+    margin-left: 570px;
+    width: 665px;
+    border:0;
+}
+legend{
+    font-size: 25px;
+    font-family: "Arial", sans-serif;
+}
+label{
+    font-size: 15px;
+    font-family: "Arial", sans-serif;
+    margin-left: 4px;
+}
+input{
+    margin-left: 4px;
+}
+#nome{
+    width: 660px;
+    margin-bottom: 10px
+}
+#email {
+    width: 660px;
+    margin-bottom: 2px;
+}
+#msg{
+    width: 660px;
+    font-family: "Arial", sans-serif;
+}
+.msg{
+    margin-left: 523px;
+    font-family: "Arial", sans-serif;
+    color: #ffffff;
+    border: 10px solid #3B1D3C;
+    background-color: #3B1D3C;
+    width: 147px;
+}
+.msg:hover{
+    color: #861943;
+}
+footer {
+    padding: 14px;
+    background-color: rgba(0, 0, 0, .3);
+    color: white;
+    margin-top: 287px;
+}

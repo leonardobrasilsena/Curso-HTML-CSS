@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Contato</title>
+        <link rel="stylesheet" href="css/menu.css">
+        <link rel="icon" href="imagens/favicon.png">
+        <link rel="stylesheet" href="css/contato.css">
+    </head>
+    <body>
+        <main>
+            <h1 class="contato">Contato</h1>
+            <div class="container">
+            </div>
+        </main>
+        <img class="minhafoto" src="imagens/eu.jpg" alt="João da Silva">
+        <div class="icones">
+            <nav>
+                <h1>João da Silva</h1>
+                <ul>
+                    <li><a href="file:///C:/Dev/VertrigoServ/www/Curso3/home.html">Home</a></li>
+                    <li><a href="file:///C:/Dev/VertrigoServ/www/Curso3/portfolio.html">Portfolio</a></li>
+                    <li><a href="http://localhost/curso2/sobre%20mim.html">Sobre mim</a></li>
+                    <li><a href="file:///C:/Dev/VertrigoServ/www/Curso3/blog.html">Blog</a></li>
+                    <li><a href="file:///C:/Dev/VertrigoServ/www/Curso3/contato.html">Contato</a></li>
+                </ul>
+            </nav>
+            <ul class="icones-sociais">
+                <li><a class="github" href="http://github.com/joaosilva">Github</a></li>
+                <li><a class="twitter" href="http://twitter.com/joaodasilva">Twitter</a></li>
+                <li><a class="linkedin" href="http://br.linkedin.com/pub/joão-da-silva/32/4/508">Linkedin</a></li>
+            </ul>
+        </div>
+        <div class="formulario">
+            <form>
+                <fieldset class="formulariofiel">
+                    <legend><strong>Dados pessoais</strong></legend>
+                    <label for="nome">Nome:</label> <br/>
+                    <input id="nome" name="nome" placeholder="Digite seu nome aqui" autofocus><br/>
+                    <label for="email">Email:</label><br/>
+                    <input id="email" name="email" placeholder="@email.com" type="email" required>
+                </fieldset>
+                <fieldset class="formulariofiel">
+                    <legend><strong>Assunto</strong></legend>
+                    <label class="labelstyle">
+                        <input type="radio" name="assunto" value="consult">
+                        Consultoria
+                    </label>
+                    <label class="labelstyle">
+                        <input type="radio" name="assunto" value="blog">
+                        Blog
+                    </label>
+                    <label class="labelstyle">
+                        <input type="radio" name="assunto" value="outro">
+                        Outro
+                    </label>
+                </fieldset>
+                <fieldset class="formulariofiel">
+                    <legend><strong>Mensagem</strong></legend>
+                    <label for="msg">
+                        <textarea id="msg" name="mensagem" cols="30" rows="6" placeholder="Digite sua mensagem aqui" required></textarea> <br/>
+                        <button class="msg" type="submit"><strong>Enviar mensagem</strong></button>
+                    </label>
+                </fieldset>
+            </form>
+        </div>
+        <footer>
+            &copy; João da Silva 2014
+        </footer>
+    </body>
+</html>
